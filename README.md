@@ -4,6 +4,6 @@ Installers for **Zevox Restaurant**, the fast offline restaurant counter by **Ze
 
 - **Windows:** [Zevox-Restaurant-Setup.exe](https://github.com/zevoxsolutions/zevox-restaurant-downloads/releases/latest/download/Zevox-Restaurant-Setup.exe)
 
-On first start the app asks for a **licence key** (internet needed once). Get one from Zevox Solutions: **0329-7901828** · [zevoxsolutions.com](https://zevoxsolutions.com/products/zevox-restaurant)
+On first start the app asks for a **licence key** (internet needed once). Get one from Zevox Solutions: **0329-4692292** · [zevoxsolutions.com](https://zevoxsolutions.com/products/zevox-restaurant)
 
 The source code is private; this repository only holds the published installers.
